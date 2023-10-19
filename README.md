@@ -1,6 +1,6 @@
 <h1>Projeto-sorteador</h1>
 <br>
-<p>Este projeto foi desenvolvido com o objetic=vo de ser um sorteador aleatório de valores que podem ser colocados pelo usuário</p>
+<p>Este projeto foi desenvolvido com o objetivo de ser um sorteador aleatório de valores que podem ser colocados pelo usuário</p>
 <br>
 <h2>Tecnologias utilizadas no projeto</h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

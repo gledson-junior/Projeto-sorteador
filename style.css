@@ -16,9 +16,9 @@ body {
 }
 
 img {
-    width: 583px;
-    height: 374px;
-    margin-top: 156px;
+    width: 483px;
+    height: 274px;
+    margin-top: 15px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -87,4 +87,9 @@ button:hover {
 
 button:active {
     opacity: 0.8;
+}
+
+p{
+    color: #FFF;
+    font-size: 30px;
 }

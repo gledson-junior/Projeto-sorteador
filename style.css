@@ -16,8 +16,8 @@ body {
 }
 
 img {
-    width: 483px;
-    height: 274px;
+    width: 300px;
+    height: 200px;
     margin-top: 15px;
     display: block;
     margin-left: auto;
@@ -37,13 +37,13 @@ h2 {
 
 .input-entre {
     width: 342px;
-    height: 74px;
+    height: 50px;
     padding-left: 20px;
     border-radius: 14px;
     border: 1px solid rgba(255, 255, 255, 0.20);
     background: rgba(255, 255, 255, 0.25);
     color: #FFF;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 500;
     line-height: 47px;
     opacity: 1;
@@ -51,13 +51,13 @@ h2 {
 
 .input-E {
     width: 342px;
-    height: 74px;
+    height: 50px;
     padding-left: 20px;
     border-radius: 14px;
     border: 1px solid rgba(255, 255, 255, 0.20);
     background: rgba(255, 255, 255, 0.25);
     color: #ffffff;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 500;
     line-height: 47px;
     opacity: 1;
@@ -93,7 +93,6 @@ button:active {
     height: 50px;
     background-color: #fff;
     opacity: 0.7;
-    border: 2px solid red;
  }
 
 p{
